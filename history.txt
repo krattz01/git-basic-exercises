@@ -1,0 +1,174 @@
+    1  sudo apt install openjdk-8-jre
+    2  java -version
+    3  wget https://services.gradle.org/distributions/gradle-5.0-bin.zip -P /tmp
+    4  sudo unzip -d /opt/gradle /tmp/gradle-*.zip
+    5  ls /opt/gradle/gradle-5.0
+    6  sudo nano /etc/profile.d/gradle.sh
+    7  sudo chmod +x /etc/profile.d/gradle.sh
+    8  source /etc/profile.d/gradle.sh
+    9  gradle -v
+   10  exit
+   11  dpkg --list|grep -i  intellij-idea-community
+   12  sudo dpkg --list|grep -i  intellij-idea-community
+   13  sudo apt-get install intellij-idea-community
+   14  exit
+   15  cd IdeaProjects/
+   16  cd PasswordCheckerPart_2/
+   17  git add *
+   18  git commit -m "changes to logging level"
+   19  exit
+   20  git add *
+   21  git commit -m "changed logging level"
+   22  git config --global user.email nthebep@yahoo.com
+   23  git config --global user.name krattz
+   24  git push
+   25  git add *
+   26  git commit -m "changes made"
+   27  git push
+   28  ls
+   29  git add *
+   30  git commit -m "seperated logging level error and debug"
+   31  git push
+   32  cd Idea
+   33  cd IdeaProjects/
+   34  cd git-basic-exercises/
+   35  ls -a
+   36  git status
+   37  git log
+   38  nano README.md
+   39  y
+   40  cat README.md
+   41  git status
+   42  cat README.md
+   43  nano README.md
+   44  cat README.md 
+   45  git add *
+   46  git commit -m "second commit"
+   47  git status
+   48  nano README.md 
+   49  cat README.md 
+   50  git add *
+   51  git commit -m "third commit"
+   52  git log
+   53  git merge
+   54  git push
+   55  git status
+   56  git merge
+   57  git stats
+   58  git status
+   59  git log
+   60  git checkout ee73f8a7ccc6b6088148e449491299008a2bb5c8
+   61  git branch
+   62  git checkout master
+   63  git checkout -b milkshake-flavours
+   64  nano milkshakes.md
+   65  git branch
+   66  nano milkshakes.md 
+   67  nano milkshakes.md 
+   68  git add *
+   69  git commit -m "added initial flavours"
+   70  git log
+   71  git checkout master
+   72  git checkout -b history
+   73  git log
+   74  history > history.txt
+   75  git add * && git commit -m "added history"
+   76  git log
+   77  git branch
+   78  git checkout milkshake-flavours
+   79  ls
+   80  git log
+   81  nano README.md 
+   82  git add * && git commit -m "random readme changes"
+   83  git checkout history
+   84  cat README.md 
+   85  rm README.md 
+   86  echo "booya" > README.md
+   87  git commit -m "rewrote readme"
+   88  git add *
+   89  git commit -m "rewrote readme"
+   90  git checkout master
+   91  ls
+   92  git checkout master ls
+   93  git checkout milkshake-flavours
+   94  ls
+   95  git log
+   96  git checkout history
+   97  ls
+   98  git log
+   99  git checkout master
+  100  git checkout master
+  101  git merge milkshake-flavours
+  102  ls
+  103  git log
+  104  git branch
+  105  git merge history
+  106  git branch -b Katleho
+  107  git branch -b Katleho
+  108  git branch Katleho
+  109  git checkout Katleho
+  110  git branch
+  111  git remote add origin https://github.com/krattz01/git-basic-exercises.git
+  112  git branch -b cool
+  113  git branch cool
+  114  git branch
+  115  git git init
+  116  git push -u origin master
+  117  git branch
+  118  cd ..
+  119  cd ..
+  120  cd ..
+  121   cd ..
+  122   cd ..
+  123  cd IdeaProjects/
+  124  mkdir git-basic-exercises
+  125  git branch
+  126  cd git-basic-exercises/
+  127  ls -a
+  128  git init
+  129  ls -a
+  130  git status
+  131  touch README.md
+  132  ls -a
+  133  git status
+  134  git add README.md
+  135  git status
+  136  git reset --soft HEAD~1
+  137  git status
+  138  git reset --soft
+  139  git status
+  140  git rm --cached
+  141  git status
+  142  git rm --cached README.md
+  143  git status
+  144  git add README.md
+  145  git commit -m "initial commit"
+  146  git log
+  147  q
+  148  nano README.md 
+  149  cat README.md 
+  150  git status
+  151  git commit -m "second commit"
+  152  git add README.md && git commit -m "second commit"
+  153  nano README.md 
+  154  git add README.md && git commit -m "third commit"
+  155  git status
+  156  git log
+  157  git checkout ef704454d41487e7455631df38aeb2ef6a61f8a2
+  158  cat README.md 
+  159  git checkout master
+  160  cat README.md 
+  161  git branch
+  162  git checkout -b milkshake-flavours
+  163  git branch
+  164  nano milkshakes.md
+  165  git status
+  166  git commit milkshakes.md
+  167  git add milkshakes.md
+  168  git commit -m "added initial flavours"
+  169  git log
+  170  git checkout master
+  171  git checkout -b history
+  172  git log
+  173  git branch
+  174  history > history.txt
