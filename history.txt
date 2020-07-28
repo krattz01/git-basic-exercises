@@ -1,3 +1,4 @@
+<<<<<<< HEAD
     1  sudo apt install openjdk-8-jre
     2  java -version
     3  wget https://services.gradle.org/distributions/gradle-5.0-bin.zip -P /tmp
@@ -172,3 +173,645 @@
   172  git log
   173  git branch
   174  history > history.txt
+=======
+    1  python
+    2  sudo apt update
+    3  clear
+    4  sudo apt install jupyter notebook
+    5  sudo apt install jupyter-notebook
+    6  cd documents/project
+    7  jupyter notebook
+    8  ls
+    9  pwd
+   10  mkidr wordspace
+   11  mkdir workspace
+   12  cd workspace/
+   13  touch README.md
+   14  cp README.md 
+   15  cp --help
+   16  ls
+   17  cp README.md
+   18  ls
+   19  cd..
+   20  cd
+   21  mkdir temp
+   22  ls
+   23  ls -a
+   24  cd workspace/
+   25  ls
+   26  touch exercise.md
+   27  ls
+   28  mv exercise.md cd temp
+   29  ls
+   30  mv exercise.md temp
+   31  cd.
+   32  cd
+   33  ls
+   34  temp
+   35  cd temp
+   36  ls
+   37  cd
+   38  ls
+   39  cd workspace/
+   40  ls
+   41  cd temp
+   42  ls
+   43  mv temp
+   44  mv --help
+   45  ls
+   46  cd temp
+   47  ls
+   48  rm temp
+   49  ls
+   50  cd
+   51  ls
+   52  cd temp
+   53  ls
+   54  cd
+   55  cd workspace/
+   56  ls
+   57  mv README.md pushd temp
+   58  ls
+   59  cd
+   60  ..cd
+   61  cd
+   62  ls
+   63  rm temp
+   64  rmdir temp
+   65  ls
+   66  rmdir workspace/
+   67  rmdir temp
+   68  ls
+   69  workspace
+   70  cd workspace/
+   71  ls
+   72  cd
+   73  mkdir story
+   74  cd story
+   75  touch umuzi.md
+   76  cat umuzi.md 
+   77  twelve and a half
+   78  ls
+   79  touch umuzi.md 
+   80  the arrow is blue
+   81  ls
+   82  cat umuzi.md 
+   83  ls
+   84  cat >> umuzi.md 
+   85  ls
+   86  cat umuzi.md 
+   87  cat >> umuzi.md 
+   88  touch recruits.md
+   89  cat >> recruits.md 
+   90  touch cohort.md
+   91  cat cohort.md 
+   92  cat >> cohort.md 
+   93  cat umuzi.md 
+   94  cat umuzi.md cohort.md recruits.md >> summary.md
+   95  cat summary.md 
+   96  ls
+   97  nano umuzi.md 
+   98  ls
+   99  cat summary.md 
+  100  nano summary.md 
+  101  cat summary.md 
+  102  pwd
+  103  cwd
+  104  cw
+  105  pwd
+  106  ls
+  107  cd desktop
+  108  cd documents
+  109  cd
+  110  cd ~ 
+  111  cd story
+  112  cd ~
+  113  cd story
+  114  ls
+  115  cd ~/documents
+  116  cd
+  117  ls
+  118  cd story
+  119  cd ~/Documents/
+  120  cd
+  121  find 
+  122  find Documents/
+  123  find .pdf
+  124  find Documents/.pdf
+  125  find Documents/ .pdf
+  126  find Documents/ pdf
+  127  find ./Documents/ -type .pdf
+  128  find ./Documents/ .pdf
+  129  find ./Documents/ pdf
+  130  find ./Documents/ txt .pdf
+  131  find ./Documents/ .pdf
+  132  ls
+  133  locate umuzi.md
+  134  ls
+  135  locate
+  136  locate .pdf
+  137  locate .pdf cat > pad.md
+  138  locate pad.md
+  139  ls
+  140  cat pad.md
+  141  ls
+  142  rm pad.ls
+  143  rm pad.md
+  144  ls
+  145  locate updatedb
+  146  locate
+  147  locate .pdf
+  148  find .pdf
+  149  ls -l
+  150  ls
+  151  ls -a
+  152  locate umuzi
+  153  locate umuzi > found.md
+  154  ls
+  155  cat found.md 
+  156  cd workspace/
+  157  ls
+  158  cd
+  159  cd story
+  160  ls
+  161  cat umuzi.md 
+  162  cd ~
+  163  ls
+  164  which .pdf
+  165  exit
+  166  ls
+  167  cd workspace/
+  168  ls
+  169  cp README.md README.md 
+  170  cp README.md CHANGELOG.md 
+  171  ls
+  172  pushd /temp
+  173  pushd temp
+  174  ls -lh
+  175  ls -l -t -r
+  176  ls -l
+  177  ls -r
+  178  ls -R
+  179  man ls
+  180  cp -r
+  181  man cp -r
+  182  echo $PATH
+  183  ls
+  184  rm found.md
+  185  ls
+  186  clear
+  187  ls
+  188  psw
+  189  pwd
+  190  cd
+  191  ls
+  192  rm -r story
+  193  ls
+  194  rm -r workspace
+  195  ls
+  196  mkdir workspace
+  197  cd workspace/
+  198  touch README.md
+  199  cp README.md CHANGELOG.md
+  200  ls
+  201  cd
+  202  ls
+  203  ls -l
+  204  ls -a
+  205  mkdir Temp
+  206  ls
+  207  touch exercise.md
+  208  mv exercise.md Temp/
+  209  ls
+  210  cd Temp
+  211  ls
+  212  cd
+  213  cd Temp
+  214  rm -i exercise.md 
+  215  ls
+  216  cd
+  217  ls
+  218  touch exercise.md
+  219  cd Temp
+  220  copy ~/exercise.md Temp/
+  221  cp ~/exercise.md Temp/
+  222  ls
+  223  cp ~/exercise.md .
+  224  ls
+  225  cd
+  226  ls
+  227  rm exercise.md 
+  228  rm r Temp
+  229  rm -r Temp
+  230  ls
+  231  exit
+  232  sudo apt install git-all
+  233  git config --global user.name "krattz01"
+  234  git config --global user.email "katleho.nthebe@umuzi.org
+  235  @K74784854g
+  236  git config --list
+  237  exit
+  238  clear
+  239  git config --list
+  240  ls
+  241  mkdir -p outer/inner
+  242  ls
+  243  cs outer
+  244  ls
+  245  cd outer
+  246  ls
+  247  cd inner
+  248  cd~
+  249  cd ~
+  250  ls
+  251  cd outer/inner
+  252  nano opening_lines.txt
+  253  cd curl https://rawgithubusercontent.com.Blahblah/command_line_bootcamp/master/testfiles/grades.txt > grades.txt
+  254  cd
+  255  curl man
+  256  man curl
+  257  curl man
+  258  man curl
+  259  cd outer/inner
+  260  ls
+  261  grep opening_lines.txt 
+  262  ls
+  263  cat opening_lines.txt 
+  264  grep opening_lines.txt -l
+  265  grep was opening_lines.txt  | wc -c
+  266  grep was opening_lines.txt -l
+  267  cd
+  268  ls
+  269  cd outer/inner
+  270  ls
+  271  mv grades.txt /~
+  272  cd
+  273  curl https://raw.githubusercontent.com/Blahblah/command_line_bootcamp/master/testfiles/grades.txt> /outer/inner/ grades.txt
+  274  curl https://raw.githubusercontent.com/Blahblah/command_line_bootcamp/master/testfiles/grades.txt> outer/inner/ grades.txt
+  275  curl https://raw.githubusercontent.com/Blahblah/command_line_bootcamp/master/testfiles/grades.txt> grades.txt
+  276  ls
+  277  less grades.txt 
+  278  less testfile.vcf
+  279  cut -f 5 grades.txt 
+  280  ls
+  281  mkdir left/right
+  282  touch left/right
+  283  mv grades.txt challenges.txt
+  284  ls
+  285  mv challenges.txt outer/inner/
+  286  cd outer/inner/
+  287  ls
+  288  rm -r grades.txt 
+  289  ls
+  290  nano challenges.txt 
+  291  ls
+  292  cd
+  293  ls
+  294  cd workspace/
+  295  ls
+  296  rm -r CHANGELOG.md 
+  297  ls
+  298  cp README.md CHANGELOG.md
+  299  ls
+  300  cd
+  301  ls
+  302  cd outer/inner
+  303  ls
+  304  nano challenges.txt 
+  305  cd
+  306  ls
+  307  ls -a
+  308  touch temp
+  309  ls
+  310  rm -r temp
+  311  ls
+  312  mkdir tmp/ |touch exercise.md 
+  313  ls
+  314  mv exercise.md /tmp
+  315  ls
+  316  rmdir tmp
+  317  ls
+  318  mkdir tmp | touch exercise.md | mv exercise.md tmp/
+  319  ls
+  320  mv exercise.md tmp/
+  321  ls
+  322  cd inner/
+  323  cd outer/inner/
+  324  ls
+  325  cd
+  326  cd inner
+  327  inner/
+  328  inner
+  329  outer/inner/
+  330  cd /home/outer/inner/
+  331  killall
+  332  exit
+  333  ls
+  334  cd workspace/
+  335  ls
+  336  echo $PATH
+  337  cd
+  338  echo $PATH workspace/
+  339  ls
+  340  cd
+  341  touch umuzi.md recruits.md cohort.md
+  342  ls
+  343  cd workspace/
+  344  ls
+  345  cd
+  346  cd tmp
+  347  ls
+  348  nano exercise.md 
+  349  cd outer
+  350  ls
+  351  cd
+  352  ls
+  353  cd outer
+  354  cd inner
+  355  ls
+  356  nano challenges.txt
+  357  nano umuzi.md
+  358  nano recruits.md
+  359  nano cohort.md
+  360  ls
+  361  cat cohort.md> recruits.md>umuzi.md
+  362  nano umuzi.md 
+  363  nano recruits.md 
+  364  nano cohort.md 
+  365  nano umuzi.md 
+  366  nano recruits.md 
+  367  cat cohort > recruits.md 
+  368  cat cohort.md > recruits.md 
+  369  nano recruits.md 
+  370  cat cohort.md recruits.md umuzi.md > summary.md
+  371  ls
+  372  cat summary.md 
+  373  echo The End > summary.md 
+  374  cat summary.md 
+  375  rm -r summary.md 
+  376  cat cohort.md recruits.md umuzi.md 
+  377  cat cohort.md recruits.md umuzi.md > summary.md
+  378  nano summary.md 
+  379  nano recruits.md 
+  380  cat cohort.md recruits.md umuzi.md > summary.md 
+  381  nano summary.md 
+  382  rm -r summary.md 
+  383  nano cohort.md 
+  384  nano recruits.md 
+  385  nano umuzi.md 
+  386  cat cohort.md recruits.md umuzi.md > summary.md
+  387  nano summary.md 
+  388  echo The End >> summary.md 
+  389  cat summary.md 
+  390  cd
+  391  ls
+  392  cd tmp
+  393  ls
+  394  cd 
+  395  cd outer/inner/
+  396  nano challenges.txt
+  397  cd
+  398  locate umuzi.md 
+  399  ls
+  400  echo locate umuzi.md >> search_umuzi.md
+  401  ls
+  402  nano search_umuzi.md 
+  403  rm -r search_umuzi.md 
+  404  ls
+  405  mv umuzi.md tmp/
+  406  mv cohort.md tmp/
+  407  mv recruits.md tmp/
+  408  ls
+  409  locate umuzi.md
+  410  ls
+  411  cd tmp
+  412  ls
+  413  cd
+  414  cd tmp
+  415  locate workspace
+  416  cd 
+  417  ls
+  418  cd outer/inner/
+  419  ls
+  420  cd
+  421  ls
+  422  locate challenges.txt
+  423  ls
+  424  locate challenges.txt >> search_challenges.md
+  425  ls
+  426  nano search_challenges.md 
+  427  locate umuzi
+  428  locate challenges.txt
+  429  cd outer/inner/
+  430  nano challenges.txt
+  431  cd
+  432  cd Documents/
+  433  ls
+  434  touch pad.md
+  435  mkdir work
+  436  cp pad.md work/
+  437  cd work
+  438  ls
+  439  rm -r pad.md 
+  440  ls
+  441  cd
+  442  cd Documents/
+  443  ls
+  444  mv pad.md work/ pad_copy.md
+  445  ls
+  446  cp pad.md 
+  447  cp pad.md .
+  448  cp pad.md work/ pad_copy.md
+  449  cp pad.md ./ pad_copy.md work/
+  450  cp pad.md pad_copy.md work/
+  451  mv pad.md pad_copy.md work/
+  452  ls
+  453  cd work
+  454  ls
+  455  rm -r pad.md 
+  456  cd..
+  457  cd
+  458  cd Documents/
+  459  touch pad.md
+  460  cp pad.md pad_copy.md
+  461  mv pad_copy.md work/
+  462  cd work
+  463  ls
+  464  rm -r pad_copy.md 
+  465  cd Documents
+  466  cd
+  467  cd Documents/
+  468  ls
+  469  rmdir work
+  470  ls
+  471  cd
+  472  ls
+  473  mkdir work
+  474  cp pad.md work/ pad_copy.md .
+  475  ls
+  476  cd Documents/
+  477  ls
+  478  cd
+  479  cd Desktop
+  480  ls
+  481  mkdir work
+  482  cp Documents/pad.md .
+  483  locate pad.md
+  484  ls
+  485  cp ~/Documents/pad.md .
+  486  ls
+  487  mv pad.md pad_copy.md
+  488  ls
+  489  locate updatedb
+  490  cd -
+  491  locate pad_copy
+  492  ls
+  493  locate pad.md
+  494  locate challenges.txt
+  495  locate pad
+  496  locate pad_copy
+  497  cd Desktop/
+  498  ls
+  499  cp pad_copy.md pad.md work/
+  500  cp pad_copy.md work/ pad.md
+  501  ls
+  502  cd work
+  503  cd
+  504  locate copy
+  505  locate pad
+  506  locate pad_copy.md
+  507  locate challenges.txt
+  508  cd outer/inner/
+  509  nano challenges.txt
+  510  cd
+  511  find /*.pdf
+  512  find *pdf
+  513  find /pad.md
+  514  find ~/Documents/ -name pad
+  515  find ~/Documents/ -name pad.md
+  516  find ~/ -name pad.md
+  517  cd outer/inner/ nano challenges.txt
+  518  cd outer/inner/ | nano challenges.txt
+  519  cd outer/inner/
+  520  nano challenges.txt
+  521  ls
+  522  nano challenges.txt
+  523  cd
+  524  nano my_bio.md
+  525  mkdir my_files
+  526  mv my_bio.md my_files/
+  527  ls
+  528  nano my_bio.md
+  529  ls
+  530  nano my_bio.md
+  531  ls
+  532  nano my2ndbio.md
+  533  ls
+  534  cd outer/inner/
+  535  ls
+  536  nano challenges.txt
+  537  cd
+  538  cd tmp
+  539  ls
+  540  nano exercise.md 
+  541  ls
+  542  cd
+  543  ls
+  544  rm -r my2ndbio.md 
+  545  cat search_challenges.md 
+  546  ls
+  547  cd outer/inner/
+  548  nano challenges.txt
+  549  locate tmp
+  550  locate tmp/
+  551  ls
+  552  cd
+  553  cd -a
+  554  ls
+  555  ls -a
+  556  cd .
+  557  ls
+  558  cd . .
+  559  cd..
+  560  cd outer/inner/
+  561  ls
+  562  nao challenges.txt
+  563  nano challenges.txt
+  564  clear
+  565  cd outer/inner/xit
+  566  exit
+  567  git config --list
+  568  git config --global user.email katleho.nthebe@umuzi.org
+  569  git config --list
+  570  git help config
+  571  git status
+  572  nd
+  573  ls
+  574  cd outer/inner/
+  575  nano challenges.txt
+  576  cd
+  577  ls
+  578  less search_challenges.md 
+  579  nano search_challenges.md 
+  580  find ~/ *.pdf>> search_res.txt
+  581  find ~/-name  *.pdf>> search_res.txt
+  582  find ~/ -name *.pdf >> search_res.txt
+  583  ls
+  584  less search_res.txt 
+  585  more search_res.txt 
+  586  clear
+  587  exit
+  588  git-basic-exercises
+  589  mkdir git-basic-exercises
+  590  cd git-basic-exercises/
+  591  ls -a
+  592  git init
+  593  ls -a
+  594  git status
+  595  touch README.md
+  596  ls -a
+  597  git init
+  598  git status
+  599  git add README.md
+  600  git status
+  601  git reset HEAD README.md
+  602  git status
+  603  git reset README.md
+  604  git status
+  605  git add README.md
+  606  git status
+  607  git add CONTRIBUTING.md
+  608  git status -s
+  609  echo '#first line' >> README.md
+  610  git status
+  611  git add README.md
+  612  git status
+  613  git diff
+  614  git commit
+  615  git commit -m
+  616  git status
+  617  ls
+  618  git log
+  619  git remote add orogin https://github.com/krattz01/git-basic-exercises.git
+  620  git push -u origin master
+  621  git remote add origin https://github.com/krattz01/git-basic-exercises.git
+  622  git push -u origin master
+  623  git status
+  624  git branch milkshake-flavours
+  625  git branch
+  626  cd milkshake-flavours
+  627  git * milkshake-flavours
+  628  git checkout milkshake-flavours
+  629  git branch
+  630  nano milkshakes.md
+  631  git status
+  632  git add milkshakes.md
+  633  git commit
+  634  git status
+  635  git log
+  636  git checkout master
+  637  git branch history
+  638  git checkout history
+  639  git log
+  640  history>history.txt
+>>>>>>> 2c28a2af88e77f80239a00463f60c2ffb29f724c
